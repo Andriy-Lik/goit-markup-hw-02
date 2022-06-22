@@ -110,6 +110,10 @@
     text-transform: uppercase;
 }
 
+.features>h2 {
+    display: none;
+}
+
 .features-title {
     font-weight: 700;
     font-size: 14px;
@@ -149,6 +153,11 @@
 }
 
 /*portfolio styles*/
+.filter>h2,
+.projects>h2 {
+    display: none;
+}
+
 .projects-title {
     font-weight: 700;
     font-size: 18px;
